@@ -22,4 +22,4 @@ add_executable(${PROJECT_NAME}
     qml.qrc
 )
 
-target_link_libraries(${PROJECT_NAME} ${QT_LIBS} QuteUIKit)
+target_link_libraries(${PROJECT_NAME} ${QT_LIBS} QuteUIKitplugin)
