@@ -12,4 +12,11 @@ Window {
         width: 100
         height: 100
     }
+
+    StandardToggleButton {
+        x: 100
+        y: 100
+        width: 170/2
+        height: 100/2
+    }
 }

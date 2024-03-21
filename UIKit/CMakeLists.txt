@@ -16,6 +16,7 @@ qt_add_qml_module(QuteUIKit
     VERSION 1.0
     SOURCES
         qutecheckbox.h qutecheckbox.cpp trimmablepainterpath.h trimmablepainterpath.cpp
+    QML_FILES StandardToggleButton.qml
 )
 
 
